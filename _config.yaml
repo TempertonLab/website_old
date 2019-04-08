@@ -1,5 +1,13 @@
-name: Hank Quinlan, Horrible Cop
+title: Temperton Lab
+email: btempertonlab@gmail.com
+description: The Temperton Lab!
+baseurl: ""
+url: ""
+twitter_username:
+github_username:
+
 markdown: kramdown
+theme:minima
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
