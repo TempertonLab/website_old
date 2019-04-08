@@ -7,7 +7,7 @@ twitter_username:
 github_username:
 
 markdown: kramdown
-theme:minima
+theme: minima
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
