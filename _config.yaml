@@ -1,13 +1,3 @@
-title: Temperton Lab
-email: btempertonlab@gmail.com
-description: The Temperton Lab!
-baseurl: ""
-url: ""
-twitter_username:
-github_username:
-
-markdown: kramdown
-theme: minima
-permalink: /blog/:year/:month/:day/:title
 plugins:
-  - jekyll-sitemap
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.16.0"
